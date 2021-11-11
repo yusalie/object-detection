@@ -1,0 +1,20 @@
+#webcam {
+    width: 50%;
+    height: 50%;
+    position: fixed;
+    top: 25%;
+    left: 30%;
+  }
+
+.container{
+    align-items: center;
+}
+#info {
+    position: relative;
+    left: 50%;
+}
+
+#text{
+    font-size: 20px;
+    font
+}
