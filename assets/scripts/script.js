@@ -3,7 +3,6 @@ let detector;
 let detections = [];
 
 function preload() {
-  // img = loadImage('dog_cat.jpg');
   detector = ml5.objectDetector('cocossd');
 }
 
